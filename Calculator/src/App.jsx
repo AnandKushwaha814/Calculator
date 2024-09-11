@@ -23,8 +23,6 @@ function App() {
     }
   }
 
-
-
   return (
     <>
       <div className="ml-[40%] mt-[10%] h-[480px] w-[350px] bg-[#253237] p-[20px] rounded-[20px] m-[20px] shadow-cal">

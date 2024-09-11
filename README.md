@@ -1,3 +1,6 @@
+# UI
+![Screenshot 2024-09-11 134457](https://github.com/user-attachments/assets/b6d0615d-8d05-495a-857f-57b4cb9ef68b)
+
 ## Calculator App Using React and Tailwind CSS
 This repository contains a simple calculator built using React. The app demonstrates the use of functional components and hooks (useState), along with Tailwind CSS for styling and layout. Below is a breakdown of the key components and functionality:
 ## Key Components:
